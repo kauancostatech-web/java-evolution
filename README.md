@@ -1,16 +1,16 @@
-# Java do Zero
+# Java do Zero ☕
 
 Repositorio com exercicios e codigos em Java organizados para acompanhar a evolucao nos estudos, do basico ate conceitos mais avancados.
 
-## Status
+## 🚀 Status
 
 Em desenvolvimento.
 
-## Objetivo
+## 🎯 Objetivo
 
 Este projeto foi criado para registrar a trajetoria de aprendizado em Java com pratica constante, organizacao por niveis e exemplos simples para reforcar a base da linguagem.
 
-## Conteudo Atual
+## 📚 Conteudo Atual
 
 - Estrutura basica de uma classe Java
 - Metodo `main`
@@ -19,7 +19,7 @@ Este projeto foi criado para registrar a trajetoria de aprendizado em Java com p
 - Entrada de dados com `Scanner`
 - Saida de dados com `System.out.println`
 
-## Exemplo Atual
+## 💻 Exemplo Atual
 
 O projeto possui um exemplo inicial de cadastro simples no console com leitura de:
 
@@ -27,7 +27,7 @@ O projeto possui um exemplo inicial de cadastro simples no console com leitura d
 - idade
 - salario
 
-## Estrutura do Projeto
+## 🗂️ Estrutura do Projeto
 
 ```text
 src/
@@ -35,7 +35,7 @@ src/
     Dozero.java
 ```
 
-## Como Executar
+## ▶️ Como Executar
 
 Compile:
 
@@ -49,7 +49,7 @@ Execute:
 java -cp src iniciante.Dozero
 ```
 
-## Proximos Passos
+## 🔜 Proximos Passos
 
 - Condicionais com `if` e `else`
 - Estruturas de repeticao
@@ -57,6 +57,6 @@ java -cp src iniciante.Dozero
 - Orientacao a Objetos
 - Exercicios mais completos
 
-## Observacao
+## 📝 Observacao
 
 Este repositorio sera atualizado conforme novos estudos, exercicios e projetos forem adicionados.

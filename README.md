@@ -1,4 +1,4 @@
-# Java do Zero ☕
+# Java Evolution ☕
 
 Repositorio com exercicios e codigos em Java organizados para acompanhar a evolucao nos estudos, do basico ate conceitos mais avancados.
 
